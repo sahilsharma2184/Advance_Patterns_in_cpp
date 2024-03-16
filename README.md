@@ -1,1 +1,1 @@
-# C++ Advance Patterns
+Advance Patterns in C++ programming language.
