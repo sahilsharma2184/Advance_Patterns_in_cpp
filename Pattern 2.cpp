@@ -1,3 +1,8 @@
+/*Pattern 2:
+D
+C D
+B C D
+A B C D*/
 #include <bits/stdc++.h>
 using namespace std;
 int main()
